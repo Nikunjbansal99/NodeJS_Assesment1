@@ -1,6 +1,7 @@
 # Assesment1
 
-# NLP NodeJS App Deployed on Azure App Service
+# NLP NodeJS App Deployed on Azure VM and Azure App Service
+http://52.184.17.185:8080/
 https://nlpnodejsapp.azurewebsites.net
 
 # Screenshots 
